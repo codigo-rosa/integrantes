@@ -1,6 +1,4 @@
-# Integrantes
-
-Heloise - https://github.com/HeloiseCardoso 
+# Integrantes 
 
 Amanda - https://github.com/AmandaBFernandes
 
